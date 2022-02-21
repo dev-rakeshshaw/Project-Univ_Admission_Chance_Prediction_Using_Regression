@@ -1,8 +1,5 @@
 # Project-Univ_Admission_Chance_Prediction_Using_Regression
  
- 
-## Project---Prediction-of-University-Admission-Chance
-
 Brief introduction Goals In this project, we will be using the Admission_predict dataset in csv format to predict the chances of students getting admission by a university based on several academic performance measurement. To yield the most accurate result, we will be going through several steps such as Standard Scaling,feature selection, cross validation, Distribution Cheking,Outlier Checking, etc. to train a linear regression model, make prediction and measure its performance.
 
 Dataset information:
